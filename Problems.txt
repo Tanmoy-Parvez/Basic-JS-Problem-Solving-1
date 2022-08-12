@@ -1,0 +1,20 @@
+1.  Write a program to calculate the average marks of Mathematics=95, Biology=80, Chemistry=75, Physics=70, and English=90 of a student.
+
+2.  You are given three numbers 13, 79, and 45. Write a program that will print the largest 
+    number using if-else.
+
+3.  You are given a triangle with the sides 9, 8, 9. Write a program to check whether a triangle 
+    is Isosceles or not using if-else. (Isosceles => two sides are equal.)
+
+4.  You got your final exam result. Your total score is 85. The grading chart is in the below:
+
+    80 or above A grade
+    60 or above B grade
+    50 or above C grade
+    40 or above D grade
+    39 or less  F grade
+
+    Write a program to find your grade using if-else.
+
+5.  You are in a hurry to go to your school on time. But when you are crossing the road, the 
+    traffic signal is red coloured. In this situation, if you try to cross the road, you may be in danger.If you notice a yellow coloured traffic signal, you should stop. If you notice a green coloured traffic signal, you should cross the road. So write a JS code, where there is a variable called signal. Its value can be green, yellow or red & we will get different activities as output depending on the variable. So, hurry up.
